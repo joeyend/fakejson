@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "fake hello"
+    }
+  ],
+  "profile": {
+    "name": "fake-rest"
+  }
+}
